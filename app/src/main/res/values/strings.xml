@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Civil_Advocacy</string>
+    <string name="about">about</string>
+    <string name="location_search">location_search</string>
+    <string name="seperator">seperator</string>
+    <string name="name">Name</string>
+    <string name="office">Office</string>
+    <string name="party">Party</string>
+    <string name="deniedText">Location permission was denied - cannot determine address</string>
+    <string name="location">Location</string>
+    <string name="nothing_found">Nothing Found</string>
+    <string name="google_civic"><u>Google Civic Information API</u></string>
+    <string name="civil_advocacy">Civil Advocacy</string>
+    <string name="_2021_j_c_sciaccotta">© 2021 J.C. Sciaccotta</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="data_provided_by">Data provided by</string>
+    <string name="connected">You ARE Connected to the Internet!</string>
+    <string name="not_connected">You are NOT Connected to the Internet!</string>
+</resources>
